@@ -1,3 +1,11 @@
-# Android-UI-testing
-Android UI Testing - CMPUT 301 Lab 7   
-Compile SDK - 34
+# CMPUT 301 : Lab 7 - Android UI Testing
+
+## Student Details
+
+- **Full Name:** `Basma Ebeid`
+- **CCID:** 'bebeid`
+
+## References and Resources
+
+'N/A'
+
